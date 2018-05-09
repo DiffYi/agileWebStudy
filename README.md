@@ -1,1 +1,1 @@
-"The 2nd Lesson for AgileWeb by ÎéÜ²" 
+"The 2nd Lesson for AgileWeb by ä¼æ‡¿" 
