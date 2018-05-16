@@ -11,6 +11,6 @@
     "test": "jasmine",
     "testem": "testem"
   },
-  "author": "",
+  "author": "wuyi",
   "license": "ISC"
 }
